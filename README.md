@@ -8,7 +8,7 @@ Also creates a histogram of the number of institutions per project.
 
 ## Inputs
 
-- pages: saved html from the 3 pages of the OSCARS website listing projects
+- pages: saved html from the 3 pages of the OSCARS website listing projects (manually downloaded)
 
 ## Outputs
 
